@@ -1,6 +1,9 @@
 // Name: Nicolas Vaillancourt
 // Date: 1-27-25
 //
+// Title: ShitPatrol
+// Time: ~9000000 ms (2.5 hrs)
+//
 // Changes:
 //
 // Create a new enemy Spaceship type (w/ new artwork) that's smaller, moves faster, and is worth more points (5)
